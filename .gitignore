@@ -1,0 +1,17 @@
+# dependencies
+node_modules
+/node_modules
+/frontend/node_modules
+node_modules
+.env
+
+# testing
+/coverage
+
+# production
+/build
+.vscode
+cache
+
+npm-debug.log*
+
